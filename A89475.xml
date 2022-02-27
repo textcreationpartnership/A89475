@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A manifestation directed to the honourable Houses of Parliament in England, sent from the Lord Inchequin, the Lord Broghill, Sir Wil. Fenton, Sir Percy Smith, Lieut. Col. Will. Brocket, Lieut. Col. Thomas Serle, Sarjeant Major Muschamp; containing the reasons of their now opposing the cestation with the blood-thirsty Irish rebels; and their resolution to live and die in defence of the Parliament and Protestant cause in that Kingdom. As also, the joynt and unamimous declaration of His Majesties Protestant subjects in the Province of Munster, shewing to the whole world the many inhumane, cruell, and unheard of perfidious dealings, treacherous conspiracies, and horrid combinations of friers, priests and Jesuits, to betray the castles, forts and garrisons, and their murthering many Protestants in that province, contrary to the article of free commerce, and other articles of the late treaty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89475</idno>
+            <idno type="STC">Wing M424</idno>
+            <idno type="STC">Thomason E6_1</idno>
+            <idno type="STC">ESTC R3771</idno>
+            <idno type="EEBO-CITATION">99859160</idno>
+            <idno type="PROQUEST">99859160</idno>
+            <idno type="VID">154712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154712)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 1:E6[1], [2], [10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A manifestation directed to the honourable Houses of Parliament in England, sent from the Lord Inchequin, the Lord Broghill, Sir Wil. Fenton, Sir Percy Smith, Lieut. Col. Will. Brocket, Lieut. Col. Thomas Serle, Sarjeant Major Muschamp; containing the reasons of their now opposing the cestation with the blood-thirsty Irish rebels; and their resolution to live and die in defence of the Parliament and Protestant cause in that Kingdom. As also, the joynt and unamimous declaration of His Majesties Protestant subjects in the Province of Munster, shewing to the whole world the many inhumane, cruell, and unheard of perfidious dealings, treacherous conspiracies, and horrid combinations of friers, priests and Jesuits, to betray the castles, forts and garrisons, and their murthering many Protestants in that province, contrary to the article of free commerce, and other articles of the late treaty.</title>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+               </titleStmt>
+               <extent>[2], 10, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 10, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final errata leaf, which = Thomason E.6[2].</note>
+                  <note>Copy at 1:E.6[10] appears without errata leaf.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Ireland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154712:1" rendition="simple:additions"/>
+            <p>A MANIFESTATION DIRECTED To the Honourable Houſes of Parliament in <hi>England,</hi> SENT From the Lord <hi>Inchequin,</hi> the Lord <hi>Broghill,</hi> Sir <hi>Wil. Fenton,</hi> Sir <hi>Percy Smith,</hi> Lieut. Col. <hi>Will. Brocket,</hi> Lieut. Col. <hi>Thomas Serle,</hi> Serjeant-major <hi>Muſchamp;</hi> Containing the reaſons of their now oppoſing the Ceſſation with the blood-thirſty Iriſh Rebels; and their reſolution to live and die in defence of the Parliament and Proteſtant Cauſe in that Kingdom.</p>
+            <p>
+               <hi>As alſo,</hi> The joynt and unanimous Declaration of His Majeſties Proteſtant ſubjects in the Province of <hi>Mun<g ref="char:EOLhyphen"/>ſter,</hi> ſhewing to the whole world the many inhumane, cruell, and unheard of perfidious dealings, treacherous conſpiracies, and horrid combinations of Friers, Prieſts, and Jeſuits, to betray the Caſtles, Forts, and Garriſons, and their murthering many Proteſtants in that Province, contrary to the Article of free Commerce, and other Articles of the late Treaty.</p>
+            <q>
+               <p>
+                  <hi>Die Veneris, 9 Auguſt. 1644.</hi>
+               </p>
+               <p>ORdered by the Lords aſſembled in Parliament, That this Letter and Declaration be forthwith printed and publiſhed.</p>
+               <bibl>
+                  <hi>J. Brown, Cler. Parliamentorum.</hi>
+               </bibl>
+            </q>
+            <p>Corrected, and amended.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Wright</hi> in the Old-baily, <hi>Auguſt</hi> 14. 1644.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154712:2"/>
+            <pb n="1" facs="tcp:154712:2"/>
+            <head>TO THE LORDS and COMMONS Aſſembled in PARLIAMENT at Weſtminſter.</head>
+            <opener>
+               <salute>May it pleaſe the honourable Houſes,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F the miſeries which we have ſuffered in the Province of Munſter could be deſcribed, they would be as farre ſhort of what they are, as our ability to right our ſelves is ſhort of our de<g ref="char:EOLhyphen"/>ſires; and though our paſt ſufferings have been extreme great, yet we are like to be much more oppreſt, unleſſe the honourable Houſes of Parliament doe take us into their protection, and ſend us ſome ſpeedy reliefe.</p>
+            <p>The ſeverall Agents we imployed before we ſubmit<g ref="char:EOLhyphen"/>ted to the Ceſſation did often acquaint you with the heavy burthen we groaned under; and when we ſaw our lamentable condition did onely produce your pitty, but could not your reliefe, which was diverted by the War in England; we eſteemed it farre more advantagious for the cauſe to ſubmit to the Ceſſation, and by that meanes preſerve our Garriſons, then by a ruinous obſtinacy to continue in a War, which we knew not how to maintain ten daies. Neither can this action be imputed to any deſire of having a peace with our bloody enemies; for if we had had any ſuch deſign, upon the firſt or ſecond fai<g ref="char:EOLhyphen"/>ling
+<pb n="2" facs="tcp:154712:3"/>
+of our ſupplies, we might have embraced that op<g ref="char:EOLhyphen"/>portunity; but we ſaw Gods glory and the honour and advantage of our Countrey too deeply engaged to con<g ref="char:EOLhyphen"/>deſcend to any thing that had the face of a peace, as long as poſſibly we were able to maintaine a War.</p>
+            <p>If we thought the honourable Houſes had any greater <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tereſt then the protecting of the oppreſt Proteſtants, <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e might repreſent divers great advantages unto them; <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> more then a probability of the Adventurers gaining <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir purchaſed right, which otherwiſe is utterly loſt, <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d many other advantages which we will not ſpecifie, <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>cauſe we know your juſtice to be ſo great, that no<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing can adde to your pious care, where the Proteſtant <gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eligion is ſo deeply engaged.</p>
+            <p>But if through your great neceſſities we ſhould faile on your relied on ayd, the World ſhall ſee how much we value the vindicating of Gods glory, and the honour of the Engliſh Nation above our lives and fortunes.</p>
+            <p>Neither is the payment of this duty the onely advan<g ref="char:EOLhyphen"/>tage we propound unto our ſelves by this action, for we firmely hope, and humbly deſire this honourable aſſem<g ref="char:EOLhyphen"/>bly, that our unexpreſſible wrongs and miſeries might be a riſe for you to ſend unto his Majeſty for the con<g ref="char:EOLhyphen"/>cluding of a happy peace in England, without which we apprehend this Warre cannot be proſecuted as it ought to be. We have likewiſe ſent our moſt humble deſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res unto his Majeſty to the ſame effect, whom we hope God will direct in that way which will ſo much conduce to the eſtabliſhment of the Proteſtant Religion, and the happineſſe of the Engliſh Nation.</p>
+            <p>We will not trouble you with an over-tedious Letter, ſince this encloſed Declaration which we humbly pre<g ref="char:EOLhyphen"/>ſent unto you will acquaint you with our actions and in<g ref="char:EOLhyphen"/>tentions. We have likewiſe ſent our humble deſires,
+<pb n="3" facs="tcp:154712:3"/>
+which we make no doubt will be found as juſt as our deſigns; ſince both ſhall be for the ſettlement of the true Proteſtant Religion, and the maintenance of our Laws and Liberties; for the defence of which we have vowed to ſacrifice the lives and fortunes of thoſe which for your abſolute ſecurity (if you ſhould doubt the reality of our intentions) do offer, when any of your ſhips ſhall arrive before our harbour, all, or any particular perſon of us will goe aboard, till you have ſecured your ſelves of all or any our Garriſons. But we ſtrongly hope this wiſe Aſſembly will diſtinguiſh betwixt the effects of ne<g ref="char:EOLhyphen"/>ceſſity &amp; diſhoneſty; and impute our ſubmitting to the Ceſſation to the firſt, being too miſerable already in our ſufferings, without encreaſing them by a needleſſe jea<g ref="char:EOLhyphen"/>louſie of the laſt.</p>
+            <p>Theſe our miſeries and infinite ſufferings we moſt humbly ſubmit to your judicious conſiderations, not doubting but when you have well weighed them you will ſend a ſpeedy redreſſe to</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt humble and affectionate ſervants,</hi>
+                  <list>
+                     <item>The Lord of <hi>Inchequin,</hi> chiefe commander of the Proteſtant forces in Munſter.</item>
+                     <item>Lord of <hi>Brohgill,</hi> governour of Youghall.</item>
+                     <item>Sir <hi>William Fenton,</hi> K<hi rend="sup">t</hi>.</item>
+                     <item>Sir <hi>Percy Smith,</hi> K<hi rend="sup">t</hi>. Lieut. col. and Deputy governour of Youghall.</item>
+                     <item>Lieutenant-col. <hi>Wil. Brocket,</hi> Governour of Kinſale.</item>
+                     <item>Lieutenant-col. <hi>Thomas Serle,</hi> Governour of Bandon, &amp;c.</item>
+                     <item>Serjeant-major <hi>Muſchamp,</hi> Governour of the Fort of Corke. &amp;c.</item>
+                  </list>
+               </signed>
+               <dateline>Corke, <date>July 18. 1644.</date>
+               </dateline>
+            </closer>
+            <pb n="2" facs="tcp:154712:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:154712:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="4" facs="tcp:154712:5"/>
+            <head>The Vnanimous Declaration of HIS MAJESTIES Proteſtant Subjects of the Province of of M<g ref="char:V">Ʋ</g>NSTER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F in the undertaking of a juſt deſigne, it were only requiſite that the hearts, and conſciences of the undertakers were ſatisfied, we ſhould not need to publiſh this Declaration. But leſt our E<g ref="char:EOLhyphen"/>nemies ſhould traduce the candor of our actions, and intentions, we have made this manifeſta<g ref="char:EOLhyphen"/>tion of them, which will acquaint the world with their malice, and our innocence.</p>
+            <p>Wee are confident that all Chriſtendome hath heard of the bloudy Rebellion in <hi>Ireland;</hi> And we are as confident the Re<g ref="char:EOLhyphen"/>bells, and Popiſh Clergy have ſo palliated and diſguiſed it, That many are fully perſwaded they had reaſon for what they did; but we believe all men of judgement will change that opinion, when they ſhall know that though they were a conquered people, yet the Lawes were adminiſtred unto them with aſmuch equity as to the Engliſh; That they enjoyed their Religion, though not by Toleration, yet by Connivence; That their Lords (though Pa<g ref="char:EOLhyphen"/>piſts) ſate in Parliament. And that the election of the Knights of the Shire and Burgeſſes was free, and though of a contrary Religion were admitted into the houſe of Commons, yet for all
+<pb n="5" facs="tcp:154712:5"/>
+theſe, and many other vaſt favours and priviledges, when every one was ſitting under his Vine and Fig-tree, without any pro<g ref="char:EOLhyphen"/>vocation, they reſolved upon a generall extirpation both of the Proteſtants, and their Religion, which without doubt they had effected, had not God beene more mercifull then they were wick<g ref="char:EOLhyphen"/>ed, and by a miracle diſcovered this diveliſh deſigne; Whereof, though we had notice juſt time enough to ſecure our maine Ma<g ref="char:EOLhyphen"/>gazine at <hi>Dublin,</hi> yet we could not prevent the butchery of mul<g ref="char:EOLhyphen"/>titudes of innocent ſoules, which ſuffered at the firſt in the Pro<g ref="char:EOLhyphen"/>vince of <hi>
+                  <g ref="char:V">Ʋ</g>lſter,</hi> and ſince they have continued this Rebellion with ſuch perfidiouſneſſe, and bloudineſſe, that though we had been as guilty, as we are innocent; yet the proſecuting of the VVar with that barbarouſneſſe, had rather been a ſinne then Ju<g ref="char:EOLhyphen"/>ſtice. But by Gods great providence, when the Rebellion brake out firſt, the Parliament of <hi>England</hi> was ſitting, unto whom His Majeſty communicated ſo much of his power over this Kingdome, as we ſhall hereafter mention, and gave them great encourage<g ref="char:EOLhyphen"/>ment to proſecute the VVar againſt the Rebells by granting lands unto ſuch as ſhould adventure money for the maintenance of the VVar. Whereupon the Parliament (who were moſt willing to advance ſo good a cauſe) ſent us at firſt large ſupplies, which had ſo good ſucceſſe that the Divine aſwell as humane Juſtice did proclaime them Rebells, for indeed God Almighty (ſince the de<g ref="char:EOLhyphen"/>liverance of the children of <hi>Jſrael</hi> from the <hi>Egyptians</hi>) never appeared to viſibly as in this VVar. But the unhappy miſunder<g ref="char:EOLhyphen"/>ſtanding betweene the King and Parliament did ſo hinder the continuance of thoſe ſupplies for this Kingdome, that all we re<g ref="char:EOLhyphen"/>ceived in nineteene moneths amounted not to five weeks enter<g ref="char:EOLhyphen"/>tainement, ſo that the Army which was ſent to relieve us, lived upon us. And truly we may with Juſtice profeſſe, That the forces of this Province did feed as miraculouſly as fight, being never able to preſcribe any certaine way of ſubſiſtence for one moneth together; But when the poore Inhabitants were abſolutely beg<g ref="char:EOLhyphen"/>gered, and no meanes for the forces to ſubſiſt on, left, a ceſſation of Armes was made for a twelve moneth with the Rebells, which our neceſſity (not inclination) compelled us to beare with, and the rather out of a firme hope that the Almighty out of his in<g ref="char:EOLhyphen"/>finite goodneſſe would within that yeare ſettle a right underſtand<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:154712:6"/>
+betweene the King and Parliament, That then they would un<g ref="char:EOLhyphen"/>animouſly revenge the crying bloud of ſo many thouſands of innocent ſoules; And untill God bleſſed us with the ſight of that happy Union, we might keep our Garriſons (which otherwiſe we could not) the better to enable them to proſecute ſo juſt, and honorable a deſigne. But the Ceſſation was as fatall to us during the time of Treaty, as afterwards it was ill obſerved; or they knowing what agreement they would enforce us to condeſcend unto, did privately ſend one or two perſons to every Caſtle that we had demoliſhed, which under pretence of being by that means in their poſſeſſion, they ever ſince detaine, though it be contrary to the Articles. And which is more injurious, they have at all times ſince entered upon what Lands they have thought fit, and detain<g ref="char:EOLhyphen"/>ed them alſo; and their deviliſh malice having no bounds, they <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id place guards upon the high wayes to interrupt our Markets, and puniſhed divers of their owne party for comming with pro<g ref="char:EOLhyphen"/>viſions to us, thereby to deter all from bringing any reliefe to our Garriſons<g ref="char:punc">▪</g> that ſo they might ſtatue us out of thoſe places, that neither their fraud, or force could get from us; which that they might the better accompliſh, they murthered divers of the poore <hi>Engliſh,</hi> that preſuming on the Article of free commerce, went abroad to buy victualls, which certainly would have cauſed them to have declined that courſe of ſeeking food, if hunger threatning them with more certaine death had not forced them thereunto. And whereas we truſted that theſe notorious infide<g ref="char:EOLhyphen"/>lities in them and infinite ſufferings in us, would have been ſo viſible to His Majeſty, that nothing could have induced Him to make a peace with ſo perfidious a people, who through their fawning and inſinuating with His Majeſty, and by the counſell of ſome who re<g ref="char:EOLhyphen"/>preſent, that there is no way left for the ſecuring the remainder of <hi>Engliſh,</hi> but by a peace. We find His Majeſty being deluded by the firſt, and believing the laſt to be conducing to the pre<g ref="char:EOLhyphen"/>ſervation of His Majeſties Proteſtant Subjects, is concluding of a Peace which will againe admit thoſe <hi>Iriſh</hi> Rebells to be members of Parliament; ſo that that Court which ſhould afford reliefe for our grievances, will by their overſwaying Votes be our greateſt grievance.</p>
+            <p>
+               <pb n="7" facs="tcp:154712:6"/>Moreover we are too truely enformed by divers of their owne party (whoſe names if we ſhould publiſh, would be as great an in<g ref="char:EOLhyphen"/>gratitude as folly; The firſt, in betraying thoſe that obliged us, The laſt, in depriving our ſelves of all future intelligence by them) that they have vowed never to ſubmit to an <hi>Engliſh,</hi> or Proteſtant Government, except they have liberty to exerciſe their Religion in Churches; That the Forces of the Kingdome may be Trained-Bands of their men; And that likewiſe thoſe of their owne Re<g ref="char:EOLhyphen"/>ligion may be admitted to places of truſt in the Common-Wealth, which they call modeſt, and moderate demands, though we hope they cannot ſeeme ſo to any but themſelves, and their Clergy, who, we find doe not thinke them enough, being they may not have all the Churchlivings. For we have certaine intelli<g ref="char:EOLhyphen"/>gence that they have made a ſtrong Faction, as well among my Lord of <hi>Caſtlehavens</hi> Souldiers, as in all other parts of the Kingdom ſo that they are five parts of ſix, who will fly out into a new action, when they ſee a convenient time to execute, their deſign, which as yet they determine to forbeare, untill they ſee a peace concluded, ſuppoſing that then the Lord Lieutenant of <hi>Ireland</hi> will intermix <hi>Iriſh</hi> and <hi>Engliſh</hi> without diſtinction, to oppoſe the <hi>Scots,</hi> and that by that meanes there wil be a ſufficient number of their party in our garriſons to maſter them, which, when they find an oppor<g ref="char:EOLhyphen"/>tunity for, they will certainly ſeize into their owne hands; Upon notice whereof the Faction abroad will with all expedition appre<g ref="char:EOLhyphen"/>hend the <hi>Engliſh</hi> in all parts, and having accompliſhed this part of their deſigne, they will manifeſt that they are weary of the King of <hi>Englands</hi> Government, and that they will truſt none of his Pro<g ref="char:EOLhyphen"/>teſtant Subjects among them; For we are certainly enformed that they will invite a forraigne Prince to take them into his protecti<g ref="char:EOLhyphen"/>on, Unto whom they will deliver poſſeſſion of what he pleaſes, and will become his Subjects.</p>
+            <p>And leſt that Princes Treaſure ſhould be exhauſted by warres in other places the Clergy have with the Popes aſſiſtance, rayſed a<g ref="char:EOLhyphen"/>mongſt thoſe of their owne calling, and divers of the Gentry in <hi>I<g ref="char:EOLhyphen"/>taly,</hi> one hundred thouſand pounds in money, and a quantity of Armes, and Ammunition, that are now ready to be <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hither<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, And they have imployed one Doctor <hi>Daye<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to goe forthwith thi<g ref="char:EOLhyphen"/>ther for it, As alſo to get his holineſſe to ſettle a courſe for the ray<g ref="char:EOLhyphen"/>ſing
+<pb n="8" facs="tcp:154712:7"/>
+of more money, to be imployed for the advancement of that which they call Catholique cauſe.</p>
+            <p>Therefore out of a true ſence of our injuries already ſuffered, and unredreſſed, with a right apprehenſion of inevitable ruine, not only to our lives, and eſtates, but likewiſe to the <hi>Engliſh</hi> Nation, and Pro<g ref="char:EOLhyphen"/>teſtant Religion, we have reaſſumed our Armes, according to our duty to God, our King, and Country, with inviolable reſolution to dye, or fruſtrate this diveliſh deſigne.</p>
+            <p>And ſince thoſe that dye acting for the Goſpell, are as perfect Martyers, as thoſe that dye ſuffering for it, Wee cannot but with joy embrace any effect that proceeds from ſo glorious a cauſe.</p>
+            <p>Neither can this act be eſteemed a crime in us, ſince his Majeſty up<g ref="char:EOLhyphen"/>on the Rebels firſt inſurrection his treaſure being exhauſted, gave his Royall aſſent for the paſſing of an Act of Parliament, wherin he gran<g ref="char:EOLhyphen"/>ted (to all his Subjects that would adventure mony towards reducing of the rebells) Lands proportionable to the ſum adventured, which would fall to the Crowne when the conqueſt ſhould be finiſhed; and the better to ſecure the adventurers, his Majeſty obliged him<g ref="char:EOLhyphen"/>ſelfe to make no peace with the Rebels, but with the advice and approbation of the Parliament of <hi>England;</hi> And by that Act com<g ref="char:EOLhyphen"/>municated to the Parliament that power, which before was ſolely in himſelfe, So that they not condeſcending to this peace, Our im<g ref="char:EOLhyphen"/>ploying of their Aids, and reaſſuming of thoſe Armes put into our hands by King and Parliament joyntly, cannot be eſteemed contra<g ref="char:EOLhyphen"/>dictory to his Majeſty, in regard that their joynt Act is ſo ab<g ref="char:EOLhyphen"/>ſolutely binding, that neither of them ſeverally can annull it, as is evident in the Lawes of the Realme.</p>
+            <p>Therefore if this war were only offenſive, yet even ſlander it ſelfe muſt acknowledge us innocent, having ſo juſt a cauſe, ſo pious an intention, and ſo lawfull an authority, much more it being defen<g ref="char:EOLhyphen"/>ſive and the Law both of God and nature allowing every one to defend himſelfe from violence and wrong.</p>
+            <p>Moreover, the King muſt never expect any obedience from the <hi>Iriſh,</hi> but what proceeds either from their Intereſt, or fear. Through the firſt of theſe, neither His Majeſty, or we can hope for aſſurance, for not granting them all their deſires, their Intereſt (which is more powerfull with them then their loyalty) will make them throw off their ſubjection and to become abſolute, not ſcruple to deſtroy us:
+<pb n="9" facs="tcp:154712:7"/>
+then to expect any ſecurity by their feares, were frivolous; for though we have found their hearts as ill as their cauſe, yet they can<g ref="char:EOLhyphen"/>not be apprehenſive of two or 3000 ill armed, and unprovided men, having all things neceſſary, and ſo numerous a people at their devo<g ref="char:EOLhyphen"/>tion.</p>
+            <p>And leſt our Enemies ſhould ſcandalize us with breach of faith, in violating the pretended Ceſſation, or with cruelty in expelling the <hi>Iriſh</hi> Papiſts from our Garriſons, who hitherto ſeemed adhering to us.</p>
+            <p>Concerning the firſt, we declare, That although our neceſſities did induce us to ſubmit, ſuppoſing the Coſſation would have produced other effects, as is before mentioned; yet that we had no power, (without authority from King and Parliament joyntly) to treat or yeeld to it; or if it had been in our powers, yet by the Rebels dai<g ref="char:EOLhyphen"/>ly breaches of it, we are diſengaged from it.</p>
+            <p>Concerning the ſecond, We declare, That our Garriſon cannot be ſecured, whilſt ſo powerfull and perfidious Enemies are in our bo<g ref="char:EOLhyphen"/>ſomes; Powerfull, being foure to one in number more then the <hi>Engliſh;</hi> Perfidious, in their conſtant deſignes to betray us, ſome whereof we will inſtance, to convince their owne conſciences, and ſatisfie the world of our juſt proceedings.</p>
+            <p>One <hi>Francis Matthewes,</hi> a <hi>Franciſean</hi> Fryer (being wonderful<g ref="char:EOLhyphen"/>ly diſcovered in an enigmaticall Letter, and as juſtly executed) be<g ref="char:EOLhyphen"/>fore his death confeſſed, that he had agreed to betray the City of <hi>Corke</hi> to the Lord of <hi>Muskery,</hi> which muſt neceſſarily inferre, that the chiefeſt and greateſt part of that City were engaged in this con<g ref="char:EOLhyphen"/>ſpiracie, for otherwiſe he could not ſo much as hope th'accompliſh<g ref="char:EOLhyphen"/>ment; And if this had taken effect, it had conſequently ruined all the Proteſtants in the Province of <hi>Miniſter,</hi> that being our chiefe Magazine, and greateſt Garriſon; Beſides upon this occaſion, other Fryers being examined upon Oath, confeſſed that in their daily Maſſes within that Towne, and all other of our Garriſons, (where Papiſts did inhabite, they prayed for the advancement of the Catho<g ref="char:EOLhyphen"/>lique cauſe; which they believed the Rebels fought for.</p>
+            <p>And laſtly, Wee have lately diſcovered, that the now Major, and Corporation, had conbined with the Rebells to betray the Towne to them and for that purpoſe an Army was drawne to all the parts adjoyning to our Garriſons. In the three chiefeſt whereof, we are
+<pb n="10" facs="tcp:154712:8"/>
+confident, the Rebells had their partie; but by divine providence, before the Plot could be executed, the Major preſuming on his ſpeedy ſucceſſe, contemned the Lord of <hi>Inch<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quins</hi> authority, by oppoſing the levying of the monyes granted by the <hi>Engliſh,</hi> for the maintenance of the Souldiers, juſt about the nick of time that the treachery was to be effected.</p>
+            <p>And he being committed upon this occaſion, The Rebels appre<g ref="char:EOLhyphen"/>hending their deſigne to be diſcovered, with drew their Forces, And leſt this ſhould be judged as an act of the Major onely, as a private perſon; Wee deſire the world to take notice, that as ſoone as our Army, which forced their obedience, was removed into <hi>England,</hi> the Papiſts generally reſiſted what ever could be propoun<g ref="char:EOLhyphen"/>ded for our ſecurity, and would have diſenabled us to continue our Garriſons had not the poore ſtript <hi>Engliſh</hi> taken all that burthen up<g ref="char:EOLhyphen"/>on themſelves.</p>
+            <p>Nay, they were ſo inſolent, that they laboured to get Armes in<g ref="char:EOLhyphen"/>to their hands, and to cauſe us to disband our Souldiers, which they affirmed to be kept as an unneceſſary charge upon the King, that ſo they might with more facilitie receive the <hi>Iriſh</hi> and ruine us.</p>
+            <p>In a word, ſince they pretend the ground of this Warre to be for Religion, and that this is confeſſed by thoſe who ſeemed to adhere to us; what faith can be expected from ſuch a people, whoſe Religi<g ref="char:EOLhyphen"/>gion permits them to hold none with us?</p>
+            <p>By this preceding Relation, it is evidently ſeene, that unleſſe we reaſſume our Armes, we betray the truſt committed to us by God, the King and Parliament, and become ſlaves both of bodies ſoules. And therefore we have reſolved to performe our dutie though with apparent hazard of our lives: And likewiſe maintaine that which is a thouſand times more deare unto us, our Religion, and alſo defend our Garriſons for the Kings juſt uſe.</p>
+            <p>Theſe we take God to witneſſe are our Intentions, and we be<g ref="char:EOLhyphen"/>ſeech him to puniſh us as ſtrangely as his <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he hath preſerved us, if we decline at all from theſe loyall and religions reſolutions; And we firmely hope that the world will by this declaration, be as fully ſatisfied of the juſtineſſe of our proceedings, as we our ſelves are; Then though we all loſe our lives in this cauſe, we ſhall give o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> friends occaſion to rejoyce; and our Enemies to envie at ſo bleſſed an and.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
